@@ -1,5 +1,5 @@
 package at.fhj.swengb.apps.helloworld
 
 trait Greeting {
-  lazy val greeting: String = "hello from hypervee"
+  lazy val greeting: String = "heil haskell"
 }
