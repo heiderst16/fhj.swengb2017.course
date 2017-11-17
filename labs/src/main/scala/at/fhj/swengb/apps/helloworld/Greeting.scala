@@ -1,5 +1,5 @@
 package at.fhj.swengb.apps.helloworld
 
 trait Greeting {
-  lazy val greeting: String = "heil Peter"
+  lazy val greeting: String = "Gregor was here"
 }
